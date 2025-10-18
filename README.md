@@ -24,9 +24,9 @@ It contains structured learning folders (with guides, code snippets, and resourc
 |---|---------|-------------|
 | 1 | 🌐 [Internet](./Phase%201/1/Internet) | Learn how the web, DNS, and HTTP work |
 | 2 | ⚙️ [Programming Language (JavaScript)](./Phase%201/2/Programming_Language) | Core JS syntax, events, and async concepts |
-| 3 | 🧭 [Version Control (Git & GitHub)](./Phase 1/3/Version_Control) | Learn Git, branches, and collaboration |
+| 3 | 🧭 [Version Control (Git & GitHub)](./Phase%201/3/Version_Control) | Learn Git, branches, and collaboration |
 | 4 | 🟩 [Framework](./Phase%201/4/Frameworks) | Frameworks Fundementals and Structures |
-| 6 | 🗄️ [Databases](./Phase 1/Phase%201/5/Databases) | Learn SQL and NoSQL with MySQL, PostgreSQL, MongoDB |
+| 6 | 🗄️ [Databases](./Phase%201/5/Databases) | Learn SQL and NoSQL with MySQL, PostgreSQL, MongoDB |
 | 7 | 🔗 [APIs](./Phase%201/6/APIs) | REST, authentication (JWT, OAuth) |
 | 8 | 🔐 [Web Security](./Phase 1/Phase%201/7/Web_Security) | Secure your applications |
 
