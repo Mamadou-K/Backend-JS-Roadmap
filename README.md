@@ -4,7 +4,7 @@
 
 A **beginner-friendly** roadmap to learn **Backend Web Development** using **JavaScript** — from understanding how the Internet works to mastering Node.js, Express, APIs, Databases, and essential security concepts.
 
-![Roadmap Banner](./assets/roadmap-banner.png)
+![Roadmap Banner](./assets/banner.png)
 
 </div>
 
