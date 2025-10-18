@@ -22,7 +22,7 @@ It contains structured learning folders (with guides, code snippets, and resourc
 
 | # | Folder | Description |
 |---|---------|-------------|
-| 1 | 🌐 [Internet](./Phase 1/1/Internet) | Learn how the web, DNS, and HTTP work |
+| 1 | 🌐 [Internet](./Phase%201/1/Internet) | Learn how the web, DNS, and HTTP work |
 | 2 | ⚙️ [Programming Language (JavaScript)](./Phase 1/2/Programming_Language) | Core JS syntax, events, and async concepts |
 | 3 | 🧭 [Version Control (Git & GitHub)](./Phase 1/3/Version_Control) | Learn Git, branches, and collaboration |
 | 4 | 🟩 [Framework](./Phase 1/4/Databases) | Frameworks Fundementals and Structures |
