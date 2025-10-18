@@ -22,14 +22,13 @@ It contains structured learning folders (with guides, code snippets, and resourc
 
 | # | Folder | Description |
 |---|---------|-------------|
-| 1 | 🌐 [Internet](./phase-1/1-Internet/README.md) | Learn how the web, DNS, and HTTP work |
-| 2 | ⚙️ [Programming Language (JavaScript)](./phase-1/2-JavaScript/README.md) | Core JS syntax, events, and async concepts |
-| 3 | 🧭 [Version Control (Git & GitHub)](./phase-1/3-Git/README.md) | Learn Git, branches, and collaboration |
-| 4 | 🟩 [Node.js](./phase-1/4-Node/README.md) | Run JavaScript on the server |
-| 5 | 🚏 [Express.js](./phase-1/5-Express/README.md) | Build RESTful APIs efficiently |
-| 6 | 🗄️ [Databases](./phase-1/6-Databases/README.md) | Learn SQL and NoSQL with MySQL, PostgreSQL, MongoDB |
-| 7 | 🔗 [APIs](./phase-1/7-APIs/README.md) | REST, authentication (JWT, OAuth) |
-| 8 | 🔐 [Web Security](./phase-1/8-Security/README.md) | Secure your applications |
+| 1 | 🌐 [Internet](./Phase 1/1/Internet) | Learn how the web, DNS, and HTTP work |
+| 2 | ⚙️ [Programming Language (JavaScript)](./Phase 1/2/Programming_Language) | Core JS syntax, events, and async concepts |
+| 3 | 🧭 [Version Control (Git & GitHub)](./Phase 1/3/Version_Control) | Learn Git, branches, and collaboration |
+| 4 | 🟩 [Framework](./Phase 1/4/Databases) | Frameworks Fundementals and Structures |
+| 6 | 🗄️ [Databases](./Phase 1/5/Databases) | Learn SQL and NoSQL with MySQL, PostgreSQL, MongoDB |
+| 7 | 🔗 [APIs](./Phase 1/6/APIs) | REST, authentication (JWT, OAuth) |
+| 8 | 🔐 [Web Security](./Phase 1/7/Web_Security) | Secure your applications |
 
 ---
 
