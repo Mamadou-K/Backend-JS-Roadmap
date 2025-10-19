@@ -28,7 +28,7 @@ It contains structured learning folders (with guides, code snippets, and resourc
 | 4 | 🟩 [Framework](./Phase%201/4/Frameworks) | Frameworks Fundementals and Structures |
 | 6 | 🗄️ [Databases](./Phase%201/5/Databases) | Learn SQL and NoSQL with MySQL, PostgreSQL, MongoDB |
 | 7 | 🔗 [APIs](./Phase%201/6/APIs) | REST, authentication (JWT, OAuth) |
-| 8 | 🔐 [Web Security](./Phase 1/Phase%201/7/Web_Security) | Secure your applications |
+| 8 | 🔐 [Web Security](./Phase%201/7/Web_Security) | Secure your applications |
 
 ---
 
